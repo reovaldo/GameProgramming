@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571831209 source:f:\kuliah\game programming\item inventory\main.c
+	<stdio.h>
+	<stdlib.h>
+
